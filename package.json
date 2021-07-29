@@ -1,6 +1,6 @@
 {
   "name": "@libit/bsert",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Minimal assert with type checking",
   "author": "ty <torworx@gmail.com>",
   "license": "MIT",
