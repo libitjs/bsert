@@ -56,7 +56,11 @@
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   },
-  "keywords": [],
+  "keywords": [
+    "bsert",
+    "assert",
+    "libit"
+  ],
   "files": [
     "README.md",
     "dist",
